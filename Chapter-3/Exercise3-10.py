@@ -12,4 +12,4 @@ popped = languageList.pop(1)
 print(popped)
 languageList.remove("italian")
 languageList.sort()
-# Every other function used in Chapter 3 occurs in previous exercise.
+# Every other function used in Chapter-3 occurs in previous exercise.
